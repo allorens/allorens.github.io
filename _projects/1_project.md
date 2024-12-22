@@ -1,12 +1,12 @@
----
+-
 layout: page
 title: The sound of Pau Casals (SPa)
-description: Spain's Ministry of Science and Innovation, PID2021-124445OA-I00
+description: Spain's Ministry of Science and Innovation, PID2021-124445OA-I00, 2022--2025
 img: assets/img/paucasals.jpg
 importance: 1
 category: as PI
 related_publications: false
----
+-
 
 While Casals’ performance style seems to be recognisable throughout his career, it is also believed that, like every musician’s, his sound somehow moulded itself across the decades and depending on the repertoire and the players with whom he would perform. In this context, "The Sound of Pau Casals"" project embraces change and incongruency as worthy elements in performance and aims at exploring them deeply through digitisation and cutting-edge computational means. We also rely on the idea that performing strategies can be understood better through embodiment and listening. Therefore, it is at the core of the conception of this proposal that such aesthetics could be brought closer to the scientific community and the music audiences by transferring the knowledge to the concert hall.
 
@@ -15,31 +15,31 @@ To explore this guiding hypothesis, sPA aims at investigating Pau Casals' interp
 2. The aesthetics in which this sound was produced and with which it entered dialogue; and
 3. The sound revived on the stage, i.e., in the concert hall, as mediated by the instruments and the dynamics between the musicians participating in the event.
 
-*Team*
-\textb{Principal Investigator}: Ana Llorens
+### Team
+**Principal Investigator**: Ana Llorens
 
-\textb{Researchers} 
--- Prof. john Rink (University of Cambridge)
--- Dr Eva Moreda (University of Glasgow)
--- Dr Inja Stanovic (University of Surrey)
--- Dr Marco Antonio Juan de Dios Cuartas (Universidad Complutense de Madrid)
--- Dr José Luis Besada (Universidad Complutense de Madrid)
--- Dr Iagoba Fanlo (Universidad Alfonso X el Sabio)
--- Lluis Claret (New England Conservatory)
--- Damián Martínez Marco (Universidad Alfonso X el Sabio)
--- Marta Moll de Alba Mendoza (Universidad Alfonso X el Sabio)
--- Anna Mora Griso
--- Carlota Martínez Escamilla (Universidad Complutense de Madrid)
--- Andres Bravo Serrano (Universidad Complutense de Madrid)
--- Luis Miguel Santos (Universidad Complutense de Madrid)
--- Kate Wadsworth (Guildhall School of Music)
+**Researchers**
+- Prof. john Rink (University of Cambridge)
+- Dr Eva Moreda (University of Glasgow)
+- Dr Inja Stanovic (University of Surrey)
+- Dr Marco Antonio Juan de Dios Cuartas (Universidad Complutense de Madrid)
+- Dr José Luis Besada (Universidad Complutense de Madrid)
+- Dr Iagoba Fanlo (Universidad Alfonso X el Sabio)
+- Lluis Claret (New England Conservatory)
+- Damián Martínez Marco (Universidad Alfonso X el Sabio)
+- Marta Moll de Alba Mendoza (Universidad Alfonso X el Sabio)
+- Anna Mora Griso
+- Carlota Martínez Escamilla (Universidad Complutense de Madrid)
+- Andres Bravo Serrano (Universidad Complutense de Madrid)
+- Luis Miguel Santos (Universidad Complutense de Madrid)
+- Kate Wadsworth (Guildhall School of Music)
 
-\textb{Former members}
--- Dr Adam Behan (University of Cambridge) 
--- Pablo Espiga Méndez (Universidad Complutense de Madrid)
--- Enrique Izquierdo Rodríguez (Universidad Complutense de Madrid)
--- África González (Universidad Complutense de Madrid)
--- Alberto Díaz Marcos (Universidad Complutense de Madrid)
+**Former members**
+- Dr Adam Behan (University of Cambridge) 
+- Pablo Espiga Méndez (Universidad Complutense de Madrid)
+- Enrique Izquierdo Rodríguez (Universidad Complutense de Madrid)
+- África González (Universidad Complutense de Madrid)
+- Alberto Díaz Marcos (Universidad Complutense de Madrid)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
