@@ -1,81 +1,61 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: The sound of Pau Casals (SPa)
+description: Spain's Ministry of Science and Innovation, PID2021-124445OA-I00
+img: assets/img/paucasals.jpg
 importance: 1
-category: work
-related_publications: true
+category: as PI
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+While Casals’ performance style seems to be recognisable throughout his career, it is also believed that, like every musician’s, his sound somehow moulded itself across the decades and depending on the repertoire and the players with whom he would perform. In this context, "The Sound of Pau Casals"" project embraces change and incongruency as worthy elements in performance and aims at exploring them deeply through digitisation and cutting-edge computational means. We also rely on the idea that performing strategies can be understood better through embodiment and listening. Therefore, it is at the core of the conception of this proposal that such aesthetics could be brought closer to the scientific community and the music audiences by transferring the knowledge to the concert hall.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To explore this guiding hypothesis, sPA aims at investigating Pau Casals' interpretive career from three different, yet equally complementary, vantage points, namely:
+1. The recorded sound, digitised and analysed computationally;
+2. The aesthetics in which this sound was produced and with which it entered dialogue; and
+3. The sound revived on the stage, i.e., in the concert hall, as mediated by the instruments and the dynamics between the musicians participating in the event.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+*Team*
+\textb{Principal Investigator}: Ana Llorens
+
+\textb{Researchers} 
+-- Prof. john Rink (University of Cambridge)
+-- Dr Eva Moreda (University of Glasgow)
+-- Dr Inja Stanovic (University of Surrey)
+-- Dr Marco Antonio Juan de Dios Cuartas (Universidad Complutense de Madrid)
+-- Dr José Luis Besada (Universidad Complutense de Madrid)
+-- Dr Iagoba Fanlo (Universidad Alfonso X el Sabio)
+-- Lluis Claret (New England Conservatory)
+-- Damián Martínez Marco (Universidad Alfonso X el Sabio)
+-- Marta Moll de Alba Mendoza (Universidad Alfonso X el Sabio)
+-- Anna Mora Griso
+-- Carlota Martínez Escamilla (Universidad Complutense de Madrid)
+-- Andres Bravo Serrano (Universidad Complutense de Madrid)
+-- Luis Miguel Santos (Universidad Complutense de Madrid)
+-- Kate Wadsworth (Guildhall School of Music)
+
+\textb{Former members}
+-- Dr Adam Behan (University of Cambridge) 
+-- Pablo Espiga Méndez (Universidad Complutense de Madrid)
+-- Enrique Izquierdo Rodríguez (Universidad Complutense de Madrid)
+-- África González (Universidad Complutense de Madrid)
+-- Alberto Díaz Marcos (Universidad Complutense de Madrid)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Ministerio.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/logo-fpc.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ICCMU.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Supporting institutions.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
