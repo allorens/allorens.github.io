@@ -20,4 +20,6 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Funding institutions.
+    Funding body and host institution.
+</div>  
+
