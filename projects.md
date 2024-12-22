@@ -1,7 +1,7 @@
 -
 layout: page
 title: The sound of Pau Casals (SPa)
-description: Spain's Ministry of Science and Innovation, PID2021-124445OA-I00, 2022--2025
+description: Spain's Ministry of Science and Innovation, PID2021-124445OA-I00, 2022-2025
 img: assets/img/paucasals.jpg
 importance: 1
 category: as PI
