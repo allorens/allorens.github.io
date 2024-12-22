@@ -15,7 +15,7 @@ The MadMusic project aims to investigate the musical practices developed in Madr
 
 **Team UCM**
 
-**Principal Investigators**: Víctor Sánchez Sánches and Ana Llorens
+**Principal Investigators**: Víctor Sánchez Sánchez and Ana Llorens
 
 **Researchers**
 Dr María Nagore Ferrer, Dr Julio C. Arce Bueno, Dr Teresa Fraile Prieto, Dr Ruth Piquer Sanclemente, Dr Marta María Rodríguez Cuervo, Dr Marco Antonio Juan de Dios Cuartas, Dr José Luis Besada, Dr Francisco J. Bethencourt Llobet, Dr Igor Contreras Zubillaga, Carlota Martínez Escamilla, Juan Miguel Illán Calado, Carlos Figueroa Cabezas
