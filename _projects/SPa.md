@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: "The Sound of Pau Casals"
+description: Spain's Ministry of Science and Innovation, PID2021-124445OA-I00, 2022-2025
 img: assets/img/paucasals.jpg
 importance: 1
 category: as PI
@@ -15,30 +15,30 @@ To explore this guiding hypothesis, sPA aims at investigating Pau Casals' interp
 2. The aesthetics in which this sound was produced and with which it entered dialogue; and
 3. The sound revived on the stage, i.e., in the concert hall, as mediated by the instruments and the dynamics between the musicians participating in the event.
 
-**Team**
+
 **Principal Investigator**: Ana Llorens
 
 **Researchers**
-Prof. john Rink (University of Cambridge)
-Dr Eva Moreda (University of Glasgow)
-Dr Inja Stanovic (University of Surrey)
-Dr Marco Antonio Juan de Dios Cuartas (Universidad Complutense de Madrid)
-Dr José Luis Besada (Universidad Complutense de Madrid)
-Dr Iagoba Fanlo (Universidad Alfonso X el Sabio)
-Lluis Claret (New England Conservatory)
-Damián Martínez Marco (Universidad Alfonso X el Sabio)
-Marta Moll de Alba Mendoza (Universidad Alfonso X el Sabio)
-Anna Mora Griso
-Carlota Martínez Escamilla (Universidad Complutense de Madrid)
-Andres Bravo Serrano (Universidad Complutense de Madrid)
-Luis Miguel Santos (Universidad Complutense de Madrid)
+Prof. John Rink (University of Cambridge), 
+Prof. Eva Moreda (University of Glasgow), 
+Dr Inja Stanovic (University of Surrey), 
+Dr Marco Antonio Juan de Dios Cuartas (Universidad Complutense de Madrid), 
+Dr José Luis Besada (Universidad Complutense de Madrid), 
+Dr Iagoba Fanlo (Universidad Alfonso X el Sabio), 
+Lluis Claret (New England Conservatory), 
+Damián Martínez Marco (Universidad Alfonso X el Sabio), 
+Marta Moll de Alba Mendoza (Universidad Alfonso X el Sabio), 
+Anna Mora Griso, 
+Carlota Martínez Escamilla (Universidad Complutense de Madrid), 
+Andres Bravo Serrano (Universidad Complutense de Madrid), 
+Luis Miguel Santos (Universidad Complutense de Madrid), 
 Kate Wadsworth (Guildhall School of Music)
 
 **Former members**
-Dr Adam Behan (University of Cambridge) 
-Pablo Espiga Méndez (Universidad Complutense de Madrid)
-Enrique Izquierdo Rodríguez (Universidad Complutense de Madrid)
-África González (Universidad Complutense de Madrid)
+Dr Adam Behan (University of Cambridge), 
+Pablo Espiga Méndez (Universidad Complutense de Madrid), 
+Enrique Izquierdo Rodríguez (Universidad Complutense de Madrid), 
+África González (Universidad Complutense de Madrid), 
 Alberto Díaz Marcos (Universidad Complutense de Madrid)
 
 <div class="row">
