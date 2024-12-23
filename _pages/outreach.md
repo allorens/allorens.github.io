@@ -14,12 +14,16 @@ nav_order: 6
 - [“¿Cómo suena la tristeza? La clave (musical) está en la ópera del siglo XVIII”](https://elpais.com/cultura/2024-02-02/como-suena-la-tristeza-la-clave-musical-esta-en-la-opera-del-siglo-xviii.html). *El País*, 02/02/2024. The news was replicated in *Doce Notas*, *Codalario*, *El Confidencial*, and news.eseuro.com, among others.
 - “Investigadores por el Mundo”, Radio Libertad, 14/04/2020.
 
+---
+
 **Outreach talks**
 - [Online seminar series for ERC DIDONE project](https://didone.eu/index.php/seminars/):
 --	“Introduction to the Didone Project”, [29/10/2020](https://youtu.be/vzNLZNUBeP4).
 --	“Passions and tonality”, [26/11/2020](https://youtu.be/F1MhykTpQIE).
 --	“Computer Science Applications to MIR”, [21/01/2021](https://youtu.be/0_7LPrPSvGs).
 --	“The engraving process”, [18/02/2021](https://youtu.be/Fv76xGy2tBQ).
+
+---
 
 **Outreach publications**
 - “El trío con piano: una panorámica”. [Programme notes](https://www.march.es/es/madrid/trio-con-piano-panoramica), Fundación Juan March, Oct. 2024.

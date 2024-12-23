@@ -30,8 +30,6 @@ nav_order: 5
 - 04–06/05/2022.‘Parole del Metastasio’: Opera and emotions in 18th-century Europe. Biblioteca Histórica “Marqués de Valdecilla”, Universidad Complutense de Madrid. *Scientific committee*.
 
 **2021**
-
-**2020**
 - 18–20/11/2021. “La tonalidad en la ópera metastasiana: la práctica musical frente a la emoción dramática”. Musicología en Transición. X Congreso de la Sociedad Española de Musicología. Baeza.
 - 20–24/09/2021. “Underneath opera seria conventions: from contrast to ternary forms”. 10th EuroMAC Conference. Moscow (online).
 - 19–22/07/2021. “The Musicology Lab: Teamwork and the musicological toolbox”. Music Encoding Conference 2021. Universidad de Alicante. **Keynote**.
