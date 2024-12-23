@@ -34,7 +34,7 @@
     },
     {
       "name": "Universidad Complutense de Madrid",
-      "position": "Juan de la Cierva–Incorporación Postdoctoral Fellow ",
+      "position": "Juan de la Cierva–Incorporación Postdoctoral Fellow",
       "url": "",
       "startDate": "2022-03-01",
       "endDate": "2022-11-30",
@@ -188,7 +188,7 @@
       "date": "2003-07-01",
       "awarder": "",
       "url": "",
-      "summary": "1st prize in cello performance competition."
+      "summary": "1st prize in cello performance competition"
     }
   ],
   "certificates": [
@@ -247,7 +247,7 @@
       "issuer": "ETS",
       "url": "",
       "icon": "fa-solid fa-info"
-    },
+    }
   ],
   "publications": [
     {
