@@ -28,9 +28,7 @@
       "position": "Assistant Professor in Music Theory and Analysis",
       "url": "https://www.ucm.es/dep-musicologia/ana-llorens-adscrita-al-iccm",
       "startDate": "2022-12-01",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
+      "endDate": ""
     },
     {
       "name": "Universidad Complutense de Madrid",
@@ -87,9 +85,7 @@
       "area": "Music",
       "studyType": "PhD",
       "startDate": "2013-10-01",
-      "endDate": "2018-10-20",
-      "score": "",
-      "courses": [""]
+      "endDate": "2018-10-20"
     },
     {
       "institution": "Universidad Complutense de Madrid",
@@ -115,7 +111,7 @@
     },
     {
       "institution": "Jacob's School of Music, Indiana University",
-      "location": "Blookington, IN, US",
+      "location": "Bloomington, IN, US",
       "url": "",
       "area": "Performer's Diploma",
       "studyType": "Postgraduate studies",
@@ -128,7 +124,7 @@
       "institution": "Escuela Superior de Música Reina Sofía",
       "location": "Madrid, Spain",
       "url": "",
-      "area": "Cello",
+      "area": "Cello Performance",
       "studyType": "Postgraduate studies",
       "startDate": "2005-09-01",
       "endDate": "2007-06-30",
@@ -139,7 +135,7 @@
       "institution": "Real Conservatorio Superior de Música de Madrid",
       "location": "Madrid, Spain",
       "url": "",
-      "area": "Cello",
+      "area": "Cello Performance",
       "studyType": "BA",
       "startDate": "2003-09-01",
       "endDate": "2005-06-30",
@@ -153,7 +149,7 @@
       "date": "2024-10-15",
       "awarder": "Comunidad de Madrid",
       "url": "https://www.comunidad.madrid/noticias/2024/10/25/comunidad-madrid-reconoce-premios-investigacion-trabajos-biologia-economia-conductual-metamateriales",
-      "summary": "The Communidad de Madrid awards one prize per category (Sciences, Bio-Sciences, and the Humanities), with two categories according to age. The 'Julián Marías' corresponds to researchers in the Humanities under 40 years.'"
+      "summary": "The Communidad de Madrid awards one prize per category (Sciences, Bio-Sciences, and the Humanities), with two categories according to age. The 'Julián Marías' corresponds to researchers in the Humanities under 40 years."
     },
     {
       "title": "National Award to Academic Excellence",
@@ -188,7 +184,7 @@
       "date": "2003-07-01",
       "awarder": "",
       "url": "",
-      "summary": "1st prize in cello performance competition"
+      "summary": "1st prize in cello performance competition."
     }
   ],
   "certificates": [
@@ -297,7 +293,7 @@
   ],
   "interests": [
     {
-      "name": "Musicologu",
+      "name": "Musicology",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Music Theory",
@@ -327,7 +323,7 @@
       "summary": "Spain's Ministry of Science and Innovation, PID2021-124445OA-I00",
       "highlights": ["Performance Analysis"],
       "startDate": "2022-09-01",
-      "endDate": "2025-0831",
+      "endDate": "2025-08-31",
       "url": ""
     },
     {
