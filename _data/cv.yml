@@ -2,96 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Ana LLorens
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: Soanish, English, French, German
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Cambridge, 2018
-      year: 2018
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - PhD in Music
-    - title: MPhil
-      institution: Universidad Complutense de Madrid, Spain
-      year: 2012
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - MPhil in Spanish and Latin-American Music
-    - title: Bachelor's degree
-      institution: Universidad Complutense de Madrid, Spain
-      year: 2011
-      description:
-        - BA in History and Sciences of Music
-        - National Award for Academic Excellence
-    - title: Postgraduate studies
-      institution: Jacob's School of Music, Indiana University, USA
-      year: 2007
-      description:
-        - Performer's Diploma
-    - title: Postgraduate studies
-        institution: Escuela Superior de Música Reina Sofía, Spain
-        year: 2006
-    - title: Bachelor's degree
-        institution: Real Conservatorio Superior de Música de Madrid, Spain
-        year: 2005
-        description:
-          - Degree in Cello Performance
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Professor in Music Theory and Analysis
-      institution: Universidad Complutense de Madrid, Spain
-      year: 2022 - preswnt
-    - title: "Juan de la Cierva–Incorporación" Postdoctoral Fellow
-      institution: Universidad Complutense de Madrid, Spain
-      year: 2022-2022
-    - title: "Juan de la Cierva–Formación" Postdoctoral Fellow
-      institution: Instituto Complutense de Ciencias Musicales, Spain
-      year: 2020-2022
-    - itle: Postdoctoral Researcher
-      institution: Instituto Complutense de Ciencias Musicales, Spain
-      year: 2019-2020
-    - title: Doctoral Fellow
-      institution: University of Cambridge, UK
-      year: 2013-2016
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2014
+    - year: 1921
       items:
-        - "Julián Marías" Prize for Research in the Humanities (Comunidad de Madrid)
-    - year: 2014
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - National Award for Academic Excellence(Spain's Ministry of Education and Science)
-   - year: 2011
-        items:
-          - Highest qualification in MPhil programme (Universidad Complutense de Madrid)
-   - year: 2010
-          items:
-            - Highest qualification in BA programme (Universidad Complutense de Madrid)
-  - year: 2005
-            items:
-              - 1st Prize, International Competition "Júlio Cardona" (Portugal)
-   - year: 2003
-              items:
-                - 1st Prize, International Competition "Forum de Violonchelos de España" 
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Music Analysis
-    items:
-      - Performance Studies
-      - Music Theory
-      - Theory of Musical Form
-    - title: Musicology
+    - title: Topic 1.
       items:
-        - Computational Musicology
-        - Historical Musicology
-        - Systematic Musicology
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
