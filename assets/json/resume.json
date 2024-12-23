@@ -35,45 +35,35 @@
       "position": "Juan de la Cierva–Incorporación Postdoctoral Fellow",
       "url": "",
       "startDate": "2022-03-01",
-      "endDate": "2022-11-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2022-11-30"
     },
     {
       "name": "Instituto Complutense de Ciencias Musicales",
       "position": "Juan de la Cierva–Formación Postdoctoral Fellow ",
       "url": "",
       "startDate": "2020-03-01",
-      "endDate": "2022-02-28",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2022-02-28"
     },
     {
       "name": "Instituto Complutense de Ciencias Musicales",
       "position": "Postdoctoral Researcher",
       "url": "",
       "startDate": "2019-02-14",
-      "endDate": "2020-02-28",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2020-02-28"
     },
     {
       "name": "University of Cambridge",
       "position": "Doctoral Researcher (La Caixa Foundation)",
       "url": "",
       "startDate": "2013-10-01",
-      "endDate": "2015-09-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2015-09-30"
     },
     {
       "name": "Universidad Complutense de Madrid",
       "position": "Doctoral Researcher (FPU)",
       "url": "",
       "startDate": "2013-03-01",
-      "endDate": "2013-09-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2013-09-30"
     }
   ],
 
@@ -95,19 +85,17 @@
       "studyType": "MPhil",
       "startDate": "2011-10-01",
       "endDate": "2012-06-30",
-      "score": "Honors",
-      "courses": [""]
+      "score": "Honors"
     },
     {
       "institution": "Universidad Complutense de Madrid",
       "location": "Madrid, Spain",
       "url": "",
       "area": "History and Sciences of Music",
-      "studyType": "BA",
-      "startDate": "2019-10-01",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2009-10-01",
       "endDate": "2011-06-30",
-      "score": "9.69/10",
-      "courses": [""]
+      "score": "9.69/10"
     },
     {
       "institution": "Jacob's School of Music, Indiana University",
@@ -116,9 +104,7 @@
       "area": "Performer's Diploma",
       "studyType": "Postgraduate studies",
       "startDate": "2007-08-15",
-      "endDate": "2008-05-31",
-      "score": "",
-      "courses": [""]
+      "endDate": "2008-05-31"
     },
     {
       "institution": "Escuela Superior de Música Reina Sofía",
@@ -127,20 +113,17 @@
       "area": "Cello Performance",
       "studyType": "Postgraduate studies",
       "startDate": "2005-09-01",
-      "endDate": "2007-06-30",
-      "score": "",
-      "courses": [""]
+      "endDate": "2007-06-30"
     },
     {
       "institution": "Real Conservatorio Superior de Música de Madrid",
       "location": "Madrid, Spain",
       "url": "",
       "area": "Cello Performance",
-      "studyType": "BA",
+      "studyType": "Bachelor's Degree",
       "startDate": "2003-09-01",
       "endDate": "2005-06-30",
-      "score": "Honors",
-      "courses": [""]
+      "score": "Honors"
     }
   ],
   "awards": [
