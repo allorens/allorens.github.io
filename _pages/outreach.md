@@ -8,9 +8,9 @@ nav_order: 6
 ---
 
 **Media interviews**
-- Radio Nacional de España, “Fila Cero”, [09/10/2024](https://www.rtve.es/play/audios/fila-cero/fundacion-juan-march-ciclo-trio-piano-panoramica-09-10-24/16281522).
+- Radio Nacional de España, “Fila Cero”, 09/10/2024.
 - [“Para todos La2”](https://www.rtve.es/play/videos/para-todos-la-2/01-03-24/15995240/), Radio Televisión Española, 02/03/2024.
-- [“La Linterna”](https://www.cope.es/programas/la-linterna/audios/linterna-con-angelexposito-14-02-2024-23h-20240214_2471738%3e), Cope radio, 14/02/2024. 
+- “La Linterna”, Cope radio, 14/02/2024. 
 - [“¿Cómo suena la tristeza? La clave (musical) está en la ópera del siglo XVIII”](https://elpais.com/cultura/2024-02-02/como-suena-la-tristeza-la-clave-musical-esta-en-la-opera-del-siglo-xviii.html). *El País*, 02/02/2024. The news was replicated in *Doce Notas*, *Codalario*, *El Confidencial*, and news.eseuro.com, among others.
 - “Investigadores por el Mundo”, Radio Libertad, 14/04/2020.
 
@@ -26,7 +26,7 @@ nav_order: 6
 ---
 
 **Outreach publications**
-- “El trío con piano: una panorámica”. [Programme notes](https://www.march.es/es/madrid/trio-con-piano-panoramica), Fundación Juan March, Oct. 2024.
+- “El trío con piano: una panorámica”. Programme notes, Fundación Juan March, Oct. 2024.
 - “Un futuro abierto a la reinvención y a la humanización de lo digital”. [*Cuadernos de música (I): Música tras la Pandemia. Platea Magazine*](https://www.plateamagazine.com/opinion/9178-cuadernos-de-musica-i-musica-tras-la-pandemia) (2020), pp. 43–45.
 - “El dieciochismo de Rodrigo: su Concierto in modo galante”. [Dossier “Joaquín Rodrigo: Un doble aniversario”](https://scherzo.es/hemeroteca/noviembre-2019/). *Scherzo* 356 (Nov. 2019), pp. 82–84.
 - Book and CD reviews for Doce Notas
