@@ -22,6 +22,7 @@ nav_order: 6
 --	“The engraving process”, [18/02/2021](https://youtu.be/Fv76xGy2tBQ).
 
 **Outreach publications**
+- “El trío con piano: una panorámica”. [Programme notes](https://www.march.es/es/madrid/trio-con-piano-panoramica), Fundación Juan March, Oct. 2024.
 - “Un futuro abierto a la reinvención y a la humanización de lo digital”. [*Cuadernos de música (I): Música tras la Pandemia. Platea Magazine*](https://www.plateamagazine.com/opinion/9178-cuadernos-de-musica-i-musica-tras-la-pandemia) (2020), pp. 43–45.
 - “El dieciochismo de Rodrigo: su Concierto in modo galante”. [Dossier “Joaquín Rodrigo: Un doble aniversario”](https://scherzo.es/hemeroteca/noviembre-2019/). *Scherzo* 356 (Nov. 2019), pp. 82–84.
 - Book and CD reviews for Doce Notas
