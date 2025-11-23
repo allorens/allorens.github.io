@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 7
-cv_pdf: Llorens_CVA.pdf # you can also use external links here
+#cv_pdf: Llorens_CVA.pdf # you can also use external links here
 description: 
 toc:
   sidebar: left
