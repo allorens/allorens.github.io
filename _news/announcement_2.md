@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 The database and corpus of arias curated at the the ERC Didone project has been made public. It can be accessed at [https://arias.didone.eu](https://arias.didone.eu). Register and start navigating!
-

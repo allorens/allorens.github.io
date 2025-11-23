@@ -8,12 +8,9 @@ category: as member of the research team
 related_publications: false
 ---
 
-
 **Consortium**: Instituto Complutense de Ciencias Musicales, Universidad Complutense de Madrid (UCM), Universidad Nebrija
 
 **Principal Investigators**: Álvaro Torrente, Víctor Sánchez Sánchez and Juan Arturo Rubio Arostegui
-
-
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">

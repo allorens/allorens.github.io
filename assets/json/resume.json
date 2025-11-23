@@ -278,14 +278,7 @@
     {
       "name": "Musicology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Music Theory",
-        "Music Analysis",
-        "Computational Musicology",
-        "Performance Studies",
-        "Artistic Research",
-        "Historical Musicology"
-      ]
+      "keywords": ["Music Theory", "Music Analysis", "Computational Musicology", "Performance Studies", "Artistic Research", "Historical Musicology"]
     }
   ],
   "references": [

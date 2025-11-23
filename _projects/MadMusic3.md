@@ -12,14 +12,12 @@ The MadMusic project aims to investigate the musical practices developed in Madr
 
 **Consortium**: Instituto Complutense de Ciencias Musicales, Universidad Complutense de MAdrid (UCM), Universidad Politécnica de Madrid, Universidad Nebrija
 
-
 **Team UCM**
 
 **Principal Investigators**: Víctor Sánchez Sánchez and Ana Llorens
 
 **Researchers**
 Dr María Nagore Ferrer, Dr Julio C. Arce Bueno, Dr Teresa Fraile Prieto, Dr Ruth Piquer Sanclemente, Dr Marta María Rodríguez Cuervo, Dr Marco Antonio Juan de Dios Cuartas, Dr José Luis Besada, Dr Francisco J. Bethencourt Llobet, Dr Igor Contreras Zubillaga, Carlota Martínez Escamilla, Juan Miguel Illán Calado, Carlos Figueroa Cabezas
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

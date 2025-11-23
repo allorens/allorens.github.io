@@ -8,11 +8,9 @@ category: as member of the research team
 related_publications: false
 ---
 
-
 **Host institution**: Instituto Complutense de Ciencias Musicales
 
 **Principal Investigator**: Álvaro Torrente
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,5 +19,4 @@ related_publications: false
 </div>
 <div class="caption">
     Funding body and host institution.
-</div>  
-
+</div>

@@ -6,10 +6,10 @@ inline: false
 related_posts: false
 ---
 
-The Comunidad de Madrid has awarded the "Julián Marías" Research Prize in the Humanities (for reserchers under 40 years of age) to Ana Llorens.
----
-The award highlights the quality and excellence of the work carried out by the researcher affiliated with the Complutense Institute of Musical Sciences (ICCMU) and Assistant Professor in Theory and Musical Analysis in the Department of Musicology at the Complutense University.
----
+## The Comunidad de Madrid has awarded the "Julián Marías" Research Prize in the Humanities (for reserchers under 40 years of age) to Ana Llorens.
+
+## The award highlights the quality and excellence of the work carried out by the researcher affiliated with the Complutense Institute of Musical Sciences (ICCMU) and Assistant Professor in Theory and Musical Analysis in the Department of Musicology at the Complutense University.
+
 #### Related media
 
 <ul>
