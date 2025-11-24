@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll (al-folio)
 
 on:
   push:
-    branches: [ "main" ]   # o "master" si es tu rama principal
+    branches: ["main"] # o "master" si es tu rama principal
   workflow_dispatch:
 
 permissions:
@@ -25,7 +25,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'   # o la que ponga el Gemfile
+          ruby-version: "3.2" # o la que ponga el Gemfile
           bundler-cache: true
 
       - name: Install dependencies
