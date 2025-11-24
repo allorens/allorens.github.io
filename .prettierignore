@@ -1,12 +1,21 @@
-**/*.map
-**/*.min.css
-**/*.min.js
-assets/css/main.scss
-assets/js/search-data.js
-assets/js/distillpub/template.v2.js
-assets/js/search/*.js
-assets/plotly/demo.html
-lighthouse_results/**
-_posts/2015-10-20-math.md
-_sass/font-awesome/*.scss
-_sass/tabler-icons/*.scss
+# Ignorar workflows de GitHub Actions
+.github/workflows/*.yml
+
+# Ignorar archivos Liquid que Prettier rompe
+_includes/**/*.liquid
+_layouts/**/*.liquid
+_posts/**/*.liquid
+
+# Ignorar carpeta generada por Jekyll
+_site/
+
+# Dependencias
+node_modules/
+
+# Archivos de lock
+package-lock.json
+yarn.lock
+
+# Archivos minificados
+*.min.js
+*.min.css
