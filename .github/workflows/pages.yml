@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 name: Build and Deploy Jekyll (al-folio)
 
 on:
   push:
     branches: ["main"] # o "master" si es tu rama principal
+=======
+name: Build and Deploy Jekyll
+
+on:
+  push:
+    branches:
+      - main   # CAMBIA A "master" si tu rama principal se llama master
+>>>>>>> b4f96dc3e94e027f95264db8b4bed1a62068d461
   workflow_dispatch:
 
 permissions:
@@ -17,7 +26,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+<<<<<<< HEAD
 
+=======
+>>>>>>> b4f96dc3e94e027f95264db8b4bed1a62068d461
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,14 +37,22 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
+<<<<<<< HEAD
           ruby-version: "3.2" # o la que ponga el Gemfile
+=======
+          ruby-version: 3.2
+>>>>>>> b4f96dc3e94e027f95264db8b4bed1a62068d461
           bundler-cache: true
 
       - name: Install dependencies
         run: bundle install --jobs 4 --retry 3
 
       - name: Build site
+<<<<<<< HEAD
         run: bundle exec jekyll build --trace -d _site
+=======
+        run: bundle exec jekyll build -d _site
+>>>>>>> b4f96dc3e94e027f95264db8b4bed1a62068d461
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -45,7 +65,10 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+<<<<<<< HEAD
 
+=======
+>>>>>>> b4f96dc3e94e027f95264db8b4bed1a62068d461
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
