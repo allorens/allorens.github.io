@@ -6,6 +6,14 @@ _includes/**/*.liquid
 _layouts/**/*.liquid
 _posts/**/*.liquid
 
+# Ignorar SCSS con Liquid y librerías de iconos
+assets/css/main.scss
+_sass/**
+assets/plotly/demo.html
+
+# Ignorar ejemplos y reportes externos
+lighthouse_results/**
+
 # Ignorar carpeta generada por Jekyll
 _site/
 
@@ -19,3 +27,6 @@ yarn.lock
 # Archivos minificados
 *.min.js
 *.min.css
+
+# Post de ejemplo con sintaxis rara de math
+_posts/2015-10-20-math.md
