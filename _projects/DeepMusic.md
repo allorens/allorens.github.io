@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "DEePMusic"
-description: Spain's Ministry of Science and Innovation, TED202-1 131738B-I00, 2022-2024
+description: Spain's Ministry of Science and Innovation, TED2021-131738B-I00, 2022-2024
 img: assets/img/DeepMus.jpg
 importance: 4
 category: as member of the research team

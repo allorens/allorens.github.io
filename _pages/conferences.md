@@ -2,7 +2,7 @@
 layout: page
 permalink: /conferences/
 title: conferences
-description: Conferences in reversed chronological order
+description: Conferences in reverse chronological order
 nav: true
 nav_order: 5
 ---
@@ -17,7 +17,7 @@ nav_order: 5
 
 - 13/12/2024. “La música de cámara en España: Agentes, repertorios y espacios”. Universidad Complutense de Madrid. **Convenor**.
 - 23–26/10/2024. “Cuantificando el sonido grabado: análisis computacional y clustering jerárquico del legado Pau Casals”. XI Congreso de la Sociedad Española de Musicología “Musicología: historias (inter)conectadas”. Elche.
-- 27–29/06/2024. “Harmonies of empowerment: Unveiling Gender Dynamics and Vocal Artistry in 18th-century Italian opera sera”. Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges. Universidad Nova de Lisboa.
+- 27–29/06/2024. “Harmonies of empowerment: Unveiling Gender Dynamics and Vocal Artistry in 18th-century Italian opera seria”. Digital Technologies Applied to Music Research: Methodologies, Projects, and Challenges. Universidad Nova de Lisboa.
 - 30-31/05/2024. “El proyecto DIDONE: ópera y tecnología para entender las emociones humanas”. I Workshop CLARIAH-CM, Humanidades Digitales y Tecnologías del Lenguaje. Universidad Complutense de Madrid. Invited paper.
 
 ---
@@ -48,7 +48,7 @@ nav_order: 5
 - 19–22/07/2021. “The Musicology Lab: Teamwork and the musicological toolbox”. Music Encoding Conference 2021. Universidad de Alicante. **Keynote**.
 - 24–25/06/2021. “Shaping eighteenth-century opera: the singer’s impact”. Tosc@ Junior Conference. Bayreuth Universität (online).
 - 21–23/06/2021. “Ambiguous and unfixed structure(s): Form through articulation in the finale from Brahms’s Cello Sonata in E minor”. International Conference on Musical Form. Birmingham (online).
-- 11–13/06/2020. II Jornadas de Investigación en Producción Musical. _Organizing commitee_.
+- 11–13/06/2020. II Jornadas de Investigación en Producción Musical. _Organizing committee_.
 
 ---
 
@@ -91,12 +91,12 @@ nav_order: 5
 
 **2012**
 
-- 06–08/09/2012. VIII Congreso de la Sociedad Española de Musicología. Sociedad Española de Musicología. _Organizing commitee_.
+- 06–08/09/2012. VIII Congreso de la Sociedad Española de Musicología. Sociedad Española de Musicología. _Organizing committee_.
 - 22–24/01/2012. “Lakatos, un músico de actualidad. Su origen, su presente, su música”. I Encontro Ibero Americano de Jovens Musicologos. Lisbon.
 
 ---
 
 **2011**
 
-- 08–11/11/2011. Congreso internacional “Tomás Luis de Victoria”. Instituto Complutense de Ciencias Musicales. _Organizing commitee_.
-- 24–26/03/2011. Simposio internacional “El Antifonario de León: El Canto Mozárabe (Viejo-Hispánico) y su entorno litúrgico musical”. Sociedad Española de Musicología. _Organizing commitee_.
+- 08–11/11/2011. Congreso internacional “Tomás Luis de Victoria”. Instituto Complutense de Ciencias Musicales. _Organizing committee_.
+- 24–26/03/2011. Simposio internacional “El Antifonario de León: El Canto Mozárabe (Viejo-Hispánico) y su entorno litúrgico musical”. Sociedad Española de Musicología. _Organizing committee_.

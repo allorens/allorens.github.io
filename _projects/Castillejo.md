@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Estancia de movilidad José Castillejo"
-description: Spain's Minstry of Science and Innovation, 2022
+description: Spain's Ministry of Science and Innovation, 2022
 importance: 5
 category: as member of the research team
 related_publications: false
