@@ -6,12 +6,15 @@ description:
 nav: true
 nav_order: 4
 ---
+
 ## Positions
+
 Coordinator of the [Master's Degree in Spanish and Latin American Music](https://www.ucm.es/master-musica-espanola-hispanoamericana), Universidad Complutense de Madrid.
 
 ## Supervision of Research Projects
 
 ##### PhD dissertations
+
 - Bustamante, Alejandro (ongoing). “La obra violinística de José Font de Anta: Estudio analítico, edición crítica y grabación”. Cosupervision: María Nagore Ferrer. PhD diss., Universidad Complutense de Madrid (UCM).
 - Santos Torres, Luis Miguel (ongoing). “EEmoción y estado afectivo: estudio a través del Lied español”. PhD diss., UCM.
 - Arias Fernández, Fernando (ongoing). “Estudio interpretativo y análisis pedagógico de los conciertos de Karl Davidov para violonchelo y orquesta en si menor op.5 y en la menor op.14, para su aplicación en las EESS de música”. PhD diss., UCM.
@@ -52,7 +55,6 @@ Taught 23 official university courses (18 different), totalling hours 837,5 hour
 - "Music Analysis: Practice and Methodology (Análisis musical: La práctica y la metodología)", MPhil in Spanish and Latin-American Music, UCM
 - "History and Historiography of Musical Performance (Historia e Historiografía de la Interpretación Musical)", MMus in Performance, Escuela Superior de Música Reina Sofía
 - "Analysis of Musical Performance (Análisis de la Interpretación Musical)", MMus in Performance, Escuela Superior de Música Reina Sofía
-
 
 **2023-2024**
 

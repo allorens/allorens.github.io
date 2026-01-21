@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 **2025**
+
 - 20–22/11/2025. “La grabación de las suites de Bach por Pablo Casals: Manipulaciones a pequeña escala en las sarabandas”. II Congreso Internacional de la Sociedad de Análisis y Teoría Musical. Universidad de Oviedo.
 - 01–03/07/2025. “Pau Casals’ recording of Bach’s cello suites: micro-scale shaping in the sarabandes”. Early Recordings Association Conference. University of Surrey.
 - 28–30/05/2025. "Boccherini’s vocal works: topics, emotions, and narrative". Tópicos y música hispana (siglos XVIII-XXI): topoi, retórica y narratividad. Universidad Complutense de Madrid.
