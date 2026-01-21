@@ -6,12 +6,15 @@ description:
 nav: true
 nav_order: 4
 ---
+## Positions
+Coordinator of the [Master's Degree in Spanish and Latin American Music](https://www.ucm.es/master-musica-espanola-hispanoamericana), Universidad Complutense de Madrid.
 
 ## Supervision of Research Projects
 
 ##### PhD dissertations
-
-- Arias Fernández, Fernando (ongoing). “Estudio interpretativo y análisis pedagógico de los conciertos de Karl Davidov para violonchelo y orquesta en si menor op.5 y en la menor op.14, para su aplicación en las EESS de música”. PhD diss., Universidad Complutense de Madrid (UCM).
+- Bustamante, Alejandro (ongoing). “La obra violinística de José Font de Anta: Estudio analítico, edición crítica y grabación”. Cosupervision: María Nagore Ferrer. PhD diss., Universidad Complutense de Madrid (UCM).
+- Santos Torres, Luis Miguel (ongoing). “EEmoción y estado afectivo: estudio a través del Lied español”. PhD diss., UCM.
+- Arias Fernández, Fernando (ongoing). “Estudio interpretativo y análisis pedagógico de los conciertos de Karl Davidov para violonchelo y orquesta en si menor op.5 y en la menor op.14, para su aplicación en las EESS de música”. PhD diss., UCM.
 - Begines Ruiz, Juan José (ongoing). “La obra para guitarra sola de Toru Takemitsu”. Cosupervision: Belén Pérez Castillo. PhD diss., UCM.
 - Martínez Escamilla, Carlota (ongoing). “Música y retórica en los preludios de las Suites de Johann Sebastian Bach para violonchelo solo. Análisis interpretativo a través de grabaciones sonoras”. Cosupervision: Álvaro Torrente. PhD diss., Universidad Complutense de Madrid. Beca predoctoral de la UCM.
 - Ortiz Casas, Marcos (ongoing). “Entonación barroca y significado: fórmulas melódico-armónicas como medios de caracterización y conceptualización en la obra vocal de G. F. Händel”. Cosupervision: Álvaro Torrente. PhD diss., UCM.
@@ -42,20 +45,21 @@ nav_order: 4
 
 Taught 23 official university courses (18 different), totalling hours 837,5 hours (82 ECTS). At the MPhil and BA levels, I taught 156.5 and 675 hours respectively. Teaching in English: 270h.
 
-**2024-2025**
+**2025-2026**
 
-- "History of European Music", BA in European Studies, 3rd year, Universidad Complutense de Madrid (UCM)
 - "Harmonic Analysis (Armonía analítica)", BA in Musicology, 2nd year, UCM
 - "History of Music II (Historia de la Música II)", BA in History of Art, 4th year, UCM
-- "Music Analysis: Practice and Methodology (Análisis musical: La práctica y la metodología", MPhil in Spanish and Latin-American Music, UCM
-- "Sound Analysis with Software (Análisis sonoro mediante software)", Master in Technologies of Soundtrack and Videogames Music Composition, UCM
+- "Music Analysis: Practice and Methodology (Análisis musical: La práctica y la metodología)", MPhil in Spanish and Latin-American Music, UCM
+- "History and Historiography of Musical Performance (Historia e Historiografía de la Interpretación Musical)", MMus in Performance, Escuela Superior de Música Reina Sofía
+- "Analysis of Musical Performance (Análisis de la Interpretación Musical)", MMus in Performance, Escuela Superior de Música Reina Sofía
+
 
 **2023-2024**
 
 - "Harmonic Analysis (Armonía analítica)", BA in Musicology, 2nd year, UCM
 - "History of Music II (Historia de la Música II)", BA in History of Art, 4th year, UCM
 - "Music Informatics (Informática musical)", BA in Musicology, 3rd year, UCM
-- "Music Analysis: Practice and Methodology (Análisis musical: La práctica y la metodología", MPhil in Spanish and Latin-American Music, UCM
+- "Music Analysis: Practice and Methodology (Análisis musical: La práctica y la metodología)", MPhil in Spanish and Latin-American Music, UCM
 - "History of Performance Styles (Historia de los estilos interpretativos)", MMus in Performance, Centro Superior Katharina Gurska
 - "Sound Analysis with Software (Análisis sonoro mediante software)", Master in Technologies of Soundtrack and Videogames Music Composition, UCM
 
