@@ -31,7 +31,7 @@ nav_order: 6
 
 - “El trío con piano: una panorámica”. Programme notes, Fundación Juan March, Oct. 2024.
 - “Un futuro abierto a la reinvención y a la humanización de lo digital”. [_Cuadernos de música (I): Música tras la Pandemia. Platea Magazine_](https://www.plateamagazine.com/opinion/9178-cuadernos-de-musica-i-musica-tras-la-pandemia) (2020), pp. 43–45.
-- “El dieciochismo de Rodrigo: su Concierto in modo galante”. [Dossier “Joaquín Rodrigo: Un doble aniversario”](https://scherzo.es/hemeroteca/noviembre-2019/). _Scherzo_ 356 (Nov. 2019), pp. 82–84.
+- “El dieciochismo de Rodrigo: su Concierto in modo galante”. Dossier “Joaquín Rodrigo: Un doble aniversario”. _Scherzo_ 356 (Nov. 2019), pp. 82–84.
 - Book and CD reviews for Doce Notas
   -- “No todas las peceras están listas para el mismo pez. La práctica artística como investigación en música”, [18/09/2015](https://www.docenotas.com/126129/no-todas-las-peceras-estan-listas-para-el-mismo-pez-la-practica-artistica-como-investigacion-en-musica/).
   -- “Maestría y genialidad en la tradición germana”, [13/12/2013](https://www.docenotas.com/110938/maestria-y-genialidad-en-la-tradicion-germana/).
