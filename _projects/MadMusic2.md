@@ -2,7 +2,7 @@
 layout: page
 title: "Espacios, géneros y públicos de la música en Madrid"
 description: Comunidad de Madrid, H2019/HUM-5731, 2022-2024
-img: assets/img/Madrid.jpg
+img: assets/img/Madrid.jpeg
 importance: 6
 category: as member of the research team
 related_publications: false
