@@ -3,7 +3,7 @@ layout: page
 title: "Didone"
 description: European Research Council, Advanced Grant no. 788986, 2019-2024
 img: assets/img/Didone.png
-importance: 1
+importance: 2
 category: as member of the research team
 related_publications: false
 ---

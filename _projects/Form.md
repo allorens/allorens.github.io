@@ -2,7 +2,7 @@
 layout: page
 title: "Towards a Unified Model of Musical Form"
 description: Swiss National Science Foundation, grant no. 10000183, 2024-2028
-importance: 2
+importance: 3
 category: as member of the research team
 related_publications: false
 ---
