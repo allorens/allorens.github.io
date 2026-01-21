@@ -2,7 +2,7 @@
 layout: page
 title: "Espacios, géneros y públicos de la música en Madrid"
 description: Comunidad de Madrid, PHS-2024/PH-HUM-194, 2025-2027
-img: assets/img/Madrid.jpg
+img: assets/img/Madrid.jpeg
 importance: 2
 category: as PI
 related_publications: false
