@@ -4,7 +4,7 @@ title: "ChordIA: Unveiling Musical Grammar"
 description: Comunidad de Madrid, Synergy Grants, SYG-2024/PH-HUM-801, 2026-2028
 img: assets/img/ChordIA.png
 importance: 4
-category: as expert collaborator
+category: as member of the research team
 related_publications: false
 ---
 
